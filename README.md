@@ -75,22 +75,27 @@ Looking forward to connecting with you!
 ## :hammer_and_wrench: Software tools
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" lt="GitHub" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" height="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="TensorFlow" alt="TensorFlow" height="40"/>
+
+
+
 </div>
 
 
 
-## :man_office_worker: Ansys and PyAnsys
+## :keyboard: Contributions
 
 - **[PyMAPDL](https://github.com/pyansys/pymapdl)** Pythonic interface to MAPDL. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/pymapdl?style=social">
 - **[PyVista](https://github.com/pyvista/pyvista)** 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyvista/pyvista?style=social">
 - **[Ansys/Actions](https://github.com/ansys/actions)** A collection of reusable workflows. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/actions?style=social"> 
-
-## <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABDklEQVQ4jWNgoDfg5mD8vE7q/3bpVyskbW0sMRUwofHD7Dh5OBkZGBgW7/3W2tZpa2tLQEOyOzeEsfumlK2tbVpaGj4N6jIs1lpsDAwMJ278sveMY2BgCA0NFRISwqkhyQ1q/Nyd3zg4OBgYGNjZ2ePi4rB5loGBhZnhxTLJ/9ulv26Q4uVk1NXV/f///////69du4Zdg78lx//t0v+3S88rFISInD59GqIH2esIJ8G9O2/XVwhjzpw5EAam1xkkBJn/bJX+v1365hxxuCAfH9+3b9/+////48cPuNehNsS7cDEzMTAwMMzb+Q2u4dOnT2vWrMHu9ZtzxP9vl/69RVpCkBlZ3N7enoDXBwEAAA+YYitOilMVAAAAAElFTkSuQmCC">
 
 
 ## :octocat: GitHub statistics
@@ -98,14 +103,16 @@ Looking forward to connecting with you!
 <br>
 <p align=center>
   <div align=center>
-    <a>
-        <img src="https://streak-stats.demolab.com?user=germa89&theme=vue&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-    </a>
+   <p>
     <a href="https://github.com/germa89/github-readme-stats" title="Go to Source">
-      <img src="https://github-readme-stats.vercel.app/api?username=germa89&count_private=true&show_icons=true&theme=vue&hide_border=true" />
+      <img width="48%" height=200 src="https://github-readme-stats.vercel.app/api?username=germa89&count_private=true&show_icons=true&theme=vue&hide_border=true" />
     </a>
     <a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=germa89&count_private=true&theme=github-light&exclude_days=Sun%2CSat&hide_border=true"/>
+        <img width="48%" height=205 src="https://streak-stats.demolab.com?user=germa89&theme=vue&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </p>
+    <a>
+    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=germa89&count_private=true&theme=github-light&exclude_days=Sun%2CSat&hide_border=true"/>
     </a>
   </div>
 </p>
