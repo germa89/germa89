@@ -98,17 +98,15 @@ Looking forward to connecting with you!
   <div align=center>
    <p>
     <a href="https://github.com/germa89/github-readme-stats" title="Go to Source">
-      <img witdh=200 src="https://github-readme-stats.vercel.app/api?username=germa89&count_private=true&show_icons=true&theme=vue&hide_border=true" />
+      <img width="48%" height=200 src="https://github-readme-stats.vercel.app/api?username=germa89&count_private=true&show_icons=true&theme=vue&hide_border=true" />
     </a>
     <a>
-        <img witdh=200 src="https://streak-stats.demolab.com?user=germa89&theme=vue&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+        <img width="48%" height=205 src="https://streak-stats.demolab.com?user=germa89&theme=vue&hide_border=true%2CSat" alt="GitHub Streak" />
     </a>
+  </p>
     <a>
-  </p>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=germa89&count_private=true&theme=github-light&exclude_days=Sun%2CSat&hide_border=true"/>
+    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=germa89&count_private=true&theme=github-light&exclude_days=Sun%2CSat&hide_border=true"/>
     </a>
-  </p>
   </div>
 </p>
 </br>
