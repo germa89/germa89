@@ -84,13 +84,11 @@ Looking forward to connecting with you!
 
 
 
-## :man_office_worker: Ansys and PyAnsys
+## :keyboard: Contributions
 
 - **[PyMAPDL](https://github.com/pyansys/pymapdl)** Pythonic interface to MAPDL. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/pymapdl?style=social">
 - **[PyVista](https://github.com/pyvista/pyvista)** 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyvista/pyvista?style=social">
 - **[Ansys/Actions](https://github.com/ansys/actions)** A collection of reusable workflows. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/actions?style=social"> 
-
-## <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABDklEQVQ4jWNgoDfg5mD8vE7q/3bpVyskbW0sMRUwofHD7Dh5OBkZGBgW7/3W2tZpa2tLQEOyOzeEsfumlK2tbVpaGj4N6jIs1lpsDAwMJ278sveMY2BgCA0NFRISwqkhyQ1q/Nyd3zg4OBgYGNjZ2ePi4rB5loGBhZnhxTLJ/9ulv26Q4uVk1NXV/f///////69du4Zdg78lx//t0v+3S88rFISInD59GqIH2esIJ8G9O2/XVwhjzpw5EAam1xkkBJn/bJX+v1365hxxuCAfH9+3b9/+////48cPuNehNsS7cDEzMTAwMMzb+Q2u4dOnT2vWrMHu9ZtzxP9vl/69RVpCkBlZ3N7enoDXBwEAAA+YYitOilMVAAAAAElFTkSuQmCC">
 
 
 ## :octocat: GitHub statistics
@@ -98,15 +96,19 @@ Looking forward to connecting with you!
 <br>
 <p align=center>
   <div align=center>
-    <a>
-        <img src="https://streak-stats.demolab.com?user=germa89&theme=vue&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-    </a>
+   <p>
     <a href="https://github.com/germa89/github-readme-stats" title="Go to Source">
-      <img src="https://github-readme-stats.vercel.app/api?username=germa89&count_private=true&show_icons=true&theme=vue&hide_border=true" />
+      <img witdh=200 src="https://github-readme-stats.vercel.app/api?username=germa89&count_private=true&show_icons=true&theme=vue&hide_border=true" />
     </a>
     <a>
+        <img witdh=200 src="https://streak-stats.demolab.com?user=germa89&theme=vue&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+    </a>
+    <a>
+  </p>
+  <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=germa89&count_private=true&theme=github-light&exclude_days=Sun%2CSat&hide_border=true"/>
     </a>
+  </p>
   </div>
 </p>
 </br>
