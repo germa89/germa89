@@ -101,7 +101,7 @@ Looking forward to connecting with you!
       <img width="48%" height=200 src="https://github-readme-stats.vercel.app/api?username=germa89&count_private=true&show_icons=true&theme=vue&hide_border=true" />
     </a>
     <a>
-        <img width="48%" height=205 src="https://streak-stats.demolab.com?user=germa89&theme=vue&hide_border=true%2CSat" alt="GitHub Streak" />
+        <img width="48%" height=205 src="https://streak-stats.demolab.com?user=germa89&theme=vue&hide_border=true" alt="GitHub Streak" />
     </a>
   </p>
     <a>
