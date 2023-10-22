@@ -1,4 +1,3 @@
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgerma89%2Fgerma89"><img align="right" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fgerma89%2Fgerma89&labelColor=%2337d67a&countColor=%23dce775" /></a>
 
 
 <div align=center>
@@ -107,5 +106,8 @@ I am currently working for [Ansys](https://www.ansys.com/), more specifically fo
 </p>
 </br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germa89&count_private=true&theme=vue&layout=donut)](https://github.com/germa89/github-readme-stats)
+<p align=center>
+  <div align=center>
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgerma89%2Fgerma89"><img align="center" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fgerma89%2Fgerma89&labelColor=%2337d67a&countColor=%23dce775" /></a>
+  </div>
+</p>
