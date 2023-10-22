@@ -1,3 +1,5 @@
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fgerma89%2Fgerma89&labelColor=%2337d67a&countColor=%23dce775)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgerma89%2Fgerma89)
+
 ### Hi there 👋
 
 <!--
