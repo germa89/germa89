@@ -1,8 +1,8 @@
 
 
 <div align=center>
-<p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">
-<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
+<p><a>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhnYmtncG01eDl1NWxyY21uMDZkam43Mjl1bXQ4aTd1eGFoenFoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif">
 <p><b>Hello there!</b></p>
 </a></p>
 </div>
@@ -17,10 +17,11 @@ I am currently working for [Ansys](https://www.ansys.com/), more specifically fo
 Looking forward to connecting with you!
 
 
-<!-- ## :: My resume
+## :: My resume
 
-* You can access my short-version resume, in the following GH page! :arrow_right: [Roberto Pastor's short resume](https://robpasmue.github.io/short-cv/)
-* You can also access my personal web portfolio, in the following GH page! :arrow_right: [Roberto Pastor's portfolio](https://robpasmue.github.io/) -->
+* You can access my resume, in the following GH page! :arrow_right: [Germán's resume](https://germa89.github.io/cv/)
+
+* If you are interested in my research background, you can check my [Google scholar profile](https://scholar.google.co.uk/citations?user=1MqmJ0sAAAAJ)
 
 
 ## :handshake: Connect with me!
@@ -53,7 +54,7 @@ Looking forward to connecting with you!
         <!-- <img alt="X-Twitter" src="https://img.shields.io/badge/X%20(Twitter)-germa89-black?style=for-the-badge&logo=x&labelColor=white&link=https%3A%2F%2Ftwitter.com%2Fgerma89"> -->
         <img alt="X-Twitter" src="https://img.shields.io/badge/X%20(Twitter)-black?style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Fgerma89">
     </a>
-    <a href="https://scholar.google.co.uk/citations?user=1MqmJ0sAAAAJ&hl=es">
+    <a href="https://scholar.google.co.uk/citations?user=1MqmJ0sAAAAJ">
     <!-- Google scholar -->
         <!-- <img alt="Google scholar" src="https://img.shields.io/badge/Scholar-Dr%20German%20Martinez--Ayuso-%234285F4?style=for-the-badge&logo=googlescholar&labelColor=white&link=https%3A%2F%2Fscholar.google.co.uk%2Fcitations%3Fuser%3D1MqmJ0sAAAAJ"> -->
         <img alt="Google scholar" src="https://img.shields.io/badge/Scholar-%234285F4?style=for-the-badge&logo=googlescholar&labelColor=%234285F4&logoColor=white&link=https%3A%2F%2Fscholar.google.co.uk%2Fcitations%3Fuser%3D1MqmJ0sAAAAJ">
