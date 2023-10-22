@@ -9,48 +9,51 @@
 
 ## :construction_worker: A little bit about myself.. 😄
 
-My name is [**Germán Martínez Ayuso**](https://www.linkedin.com/in/gmartinezayuso/), a software developer with a PhD in Civil Engineering by [Swansea University](https://www.swansea.ac.uk).
-I have experience in finite element research, for different applications material modelling, dynamics, industrial applications, etc.
-I am currently working for [Ansys](https://www.ansys.com/), more specifically for the [Ansys GitHub organization](https://github.com/ansys) and the [PyAnsys ecosystem](https://docs.pyansys.com/), where I contribute to multiple open-source projects but mainly to [PyMAPDL](https://mapdl.docs.pyansys.com/version/stable/) Looking forward to talking to you all!
+My name is [**Germán Martínez Ayuso**](https://www.linkedin.com/in/gmartinezayuso/), a software developer with a PhD in Civil Engineering from [Swansea University](https://www.swansea.ac.uk).
+I have experience in finite element for different applications; material modelling, dynamics, industrial applications, etc.
+
+I am currently working for [Ansys](https://www.ansys.com/), more specifically for the [Ansys GitHub organization](https://github.com/ansys) and the [PyAnsys ecosystem](https://docs.pyansys.com/), where I contribute to multiple open-source projects but mainly to [PyMAPDL](https://mapdl.docs.pyansys.com/version/stable/).
+
+Looking forward to connecting with you!
 
 
-## :: My resume
+<!-- ## :: My resume
 
 * You can access my short-version resume, in the following GH page! :arrow_right: [Roberto Pastor's short resume](https://robpasmue.github.io/short-cv/)
-* You can also access my personal web portfolio, in the following GH page! :arrow_right: [Roberto Pastor's portfolio](https://robpasmue.github.io/)
+* You can also access my personal web portfolio, in the following GH page! :arrow_right: [Roberto Pastor's portfolio](https://robpasmue.github.io/) -->
 
 
 ## :handshake: Connect with me!
  
 
 <div align=center>
-    <a>
+    <a href="https://www.linkedin.com/in/gmartinezayuso/">
     <!-- Linkedin -->
         <!-- <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-germa89-%230A66C2?style=for-the-badge&logo=linkedin&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgmartinezayuso%2F"> -->
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgmartinezayuso%2F">
     </a>
-    <a>
+    <a href="https://github.com/germa89">
     <!-- Github -->
         <!-- <img alt="Github" src="https://img.shields.io/badge/GitHub-germa89-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white&link=https%3A%2F%2Fwww.github.com%2Fgerma89"> -->
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fwww.github.com%2Fgerma89">
     </a>
-    <a>
+    <a href="mailto:germanmartinezayuso@gmail.com">
     <!-- GMail -->
         <!-- <img alt="Gmail" src="https://img.shields.io/badge/GMail-Email%20me!-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=mailto%3Agermanmartinezayuso%40gmail.com"> -->
         <img alt="Gmail" src="https://img.shields.io/badge/GMail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Agermanmartinezayuso%40gmail.com">
     </a>
-    <a>
+    <a href="mailto:german.ayuso@ansys.com">
     <!-- Ansys
     color: #FFB71B  -->
         <!-- <img alt="Ansys" src="https://img.shields.io/badge/ANSYS-Email%20me!-%23FFB71B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABDklEQVQ4jWNgoDfg5mD8vE7q/3bpVyskbW0sMRUwofHD7Dh5OBkZGBgW7/3W2tZpa2tLQEOyOzeEsfumlK2tbVpaGj4N6jIs1lpsDAwMJ278sveMY2BgCA0NFRISwqkhyQ1q/Nyd3zg4OBgYGNjZ2ePi4rB5loGBhZnhxTLJ/9ulv26Q4uVk1NXV/f///////69du4Zdg78lx//t0v+3S88rFISInD59GqIH2esIJ8G9O2/XVwhjzpw5EAam1xkkBJn/bJX+v1365hxxuCAfH9+3b9/+////48cPuNehNsS7cDEzMTAwMMzb+Q2u4dOnT2vWrMHu9ZtzxP9vl/69RVpCkBlZ3N7enoDXBwEAAA+YYitOilMVAAAAAElFTkSuQmCC&logoColor=%23FFB71B&labelColor=black&link=mailto%3Agerman.ayuso%40ansys.com"> -->
         <img alt="Ansys" src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABDklEQVQ4jWNgoDfg5mD8vE7q/3bpVyskbW0sMRUwofHD7Dh5OBkZGBgW7/3W2tZpa2tLQEOyOzeEsfumlK2tbVpaGj4N6jIs1lpsDAwMJ278sveMY2BgCA0NFRISwqkhyQ1q/Nyd3zg4OBgYGNjZ2ePi4rB5loGBhZnhxTLJ/9ulv26Q4uVk1NXV/f///////69du4Zdg78lx//t0v+3S88rFISInD59GqIH2esIJ8G9O2/XVwhjzpw5EAam1xkkBJn/bJX+v1365hxxuCAfH9+3b9/+////48cPuNehNsS7cDEzMTAwMMzb+Q2u4dOnT2vWrMHu9ZtzxP9vl/69RVpCkBlZ3N7enoDXBwEAAA+YYitOilMVAAAAAElFTkSuQmCC&logoColor=black&labelColor=%black&link=mailto%3Agerman.ayuso%40ansys.com">
     </a>
-    <a>
+    <a href="https://twitter.com/germa89">
     <!-- Twitter -->
-    <!-- <img alt="X-Twitter" src="https://img.shields.io/badge/X%20(Twitter)-germa89-black?style=for-the-badge&logo=x&labelColor=white&link=https%3A%2F%2Ftwitter.com%2Fgerma89"> -->
-    <img alt="X-Twitter" src="https://img.shields.io/badge/X%20(Twitter)-black?style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Fgerma89">
+        <!-- <img alt="X-Twitter" src="https://img.shields.io/badge/X%20(Twitter)-germa89-black?style=for-the-badge&logo=x&labelColor=white&link=https%3A%2F%2Ftwitter.com%2Fgerma89"> -->
+        <img alt="X-Twitter" src="https://img.shields.io/badge/X%20(Twitter)-black?style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Fgerma89">
     </a>
-    <a>
+    <a href="https://scholar.google.co.uk/citations?user=1MqmJ0sAAAAJ&hl=es">
     <!-- Google scholar -->
         <!-- <img alt="Google scholar" src="https://img.shields.io/badge/Scholar-Dr%20German%20Martinez--Ayuso-%234285F4?style=for-the-badge&logo=googlescholar&labelColor=white&link=https%3A%2F%2Fscholar.google.co.uk%2Fcitations%3Fuser%3D1MqmJ0sAAAAJ"> -->
         <img alt="Google scholar" src="https://img.shields.io/badge/Scholar-%234285F4?style=for-the-badge&logo=googlescholar&labelColor=%234285F4&logoColor=white&link=https%3A%2F%2Fscholar.google.co.uk%2Fcitations%3Fuser%3D1MqmJ0sAAAAJ">
