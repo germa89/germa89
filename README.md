@@ -7,7 +7,7 @@
 </a></p>
 </div>
 
-## :construction_worker: A little bit about myself.. 😄
+## :man_technologist: A little bit about myself..
 
 My name is [**Germán Martínez Ayuso**](https://www.linkedin.com/in/gmartinezayuso/), a software developer with a PhD in Civil Engineering from [Swansea University](https://www.swansea.ac.uk).
 I have experience in finite element for different applications; material modelling, dynamics, industrial applications, etc.
@@ -17,7 +17,7 @@ I am currently working for [Ansys](https://www.ansys.com/), more specifically fo
 Looking forward to connecting with you!
 
 
-## :: My resume
+## :construction_worker_man: My resume
 
 * You can access my resume, in the following GH page! :arrow_right: [Germán's resume](https://germa89.github.io/cv/)
 
@@ -25,7 +25,6 @@ Looking forward to connecting with you!
 
 
 ## :handshake: Connect with me!
- 
 
 <div align=center>
     <a href="https://www.linkedin.com/in/gmartinezayuso/">
@@ -61,7 +60,7 @@ Looking forward to connecting with you!
     </a>
 </div>
 
-## :man_technologist: Software languages
+## :computer: Software languages
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -85,14 +84,14 @@ Looking forward to connecting with you!
 
 
 
-## Ansys and PyAnsys
+## <img alt=":man_office_worker:" src="ata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABDklEQVQ4jWNgoDfg5mD8vE7q/3bpVyskbW0sMRUwofHD7Dh5OBkZGBgW7/3W2tZpa2tLQEOyOzeEsfumlK2tbVpaGj4N6jIs1lpsDAwMJ278sveMY2BgCA0NFRISwqkhyQ1q/Nyd3zg4OBgYGNjZ2ePi4rB5loGBhZnhxTLJ/9ulv26Q4uVk1NXV/f///////69du4Zdg78lx//t0v+3S88rFISInD59GqIH2esIJ8G9O2/XVwhjzpw5EAam1xkkBJn/bJX+v1365hxxuCAfH9+3b9/+////48cPuNehNsS7cDEzMTAwMMzb+Q2u4dOnT2vWrMHu9ZtzxP9vl/69RVpCkBlZ3N7enoDXBwEAAA+YYitOilMVAAAAAElFTkSuQmCC">  Ansys and PyAnsys
 
 - **[PyMAPDL](https://github.com/pyansys/pymapdl)** Pythonic interface to MAPDL. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/pymapdl?style=social">
 - **[PyVista](https://github.com/pyvista/pyvista)** 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyvista/pyvista?style=social">
 - **[Ansys/Actions](https://github.com/ansys/actions)** A collection of reusable workflows. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/actions?style=social"> 
 
 
-## ⚡ GitHub statistics
+## :octocat: GitHub statistics
 
 <br>
 <p align=center>
