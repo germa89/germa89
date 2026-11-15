@@ -9,17 +9,22 @@
 
 ## :man_technologist: A little bit about myself..
 
-My name is [**Germán Martínez Ayuso**](https://www.linkedin.com/in/gmartinezayuso/), a software developer with a PhD in Civil Engineering from [Swansea University](https://www.swansea.ac.uk).
-I have experience in finite element for different applications; material modelling, dynamics, industrial applications, etc.
+My name is [**Germán Martínez-Ayuso**](https://www.linkedin.com/in/gmartinezayuso/), a senior software engineer at [Synopsys](https://www.synopsys.com/) (formerly [Ansys](https://www.ansys.com/)) with a PhD in Civil Engineering (computational mechanics) from [Swansea University](https://www.swansea.ac.uk).
 
-I am currently working for [Ansys](https://www.ansys.com/), more specifically for the [Ansys GitHub organization](https://github.com/ansys) and the [PyAnsys ecosystem](https://docs.pyansys.com/), where I contribute to multiple open-source projects but mainly to [PyMAPDL](https://mapdl.docs.pyansys.com/version/stable/).
+I have spent 5+ years building production developer tooling for simulation software in the [Ansys GitHub organization](https://github.com/ansys) and the [PyAnsys ecosystem](https://docs.pyansys.com/):
+
+* Main maintainer of [PyMAPDL](https://mapdl.docs.pyansys.com/version/stable/) (500+ GitHub stars, 17,000+ monthly downloads), the Python interface to the Ansys MAPDL solver.
+* Developer of [PyMAPDL MCP](https://github.com/ansys/pymapdl-mcp), a Model Context Protocol (MCP) server that lets AI agents drive MAPDL simulations.
+* Day to day: Python and C++ (gRPC), Docker, CI/CD with GitHub Actions, testing and releases.
+
+My background is in the finite element method (FEM): material modelling, dynamics and industrial applications.
 
 Looking forward to connecting with you!
 
 
 ## :construction_worker_man: My resume
 
-* You can access my resume, in the following GH page! :arrow_right: [Germán's resume](https://germa89.github.io/cv/)
+* You can access my resume, in the following GH page! :arrow_right: [Germán's resume](https://cv.imger.dev)
 
 * If you are interested in my research background, you can check my [Google scholar profile](https://scholar.google.co.uk/citations?user=1MqmJ0sAAAAJ)
 
@@ -42,12 +47,6 @@ Looking forward to connecting with you!
         <!-- <img alt="Gmail" src="https://img.shields.io/badge/GMail-Email%20me!-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=mailto%3Agermanmartinezayuso%40gmail.com"> -->
         <img alt="Gmail" src="https://img.shields.io/badge/GMail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Agermanmartinezayuso%40gmail.com">
     </a>
-    <a href="mailto:german.ayuso@ansys.com">
-    <!-- Ansys
-    color: #FFB71B  -->
-        <!-- <img alt="Ansys" src="https://img.shields.io/badge/ANSYS-Email%20me!-%23FFB71B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABDklEQVQ4jWNgoDfg5mD8vE7q/3bpVyskbW0sMRUwofHD7Dh5OBkZGBgW7/3W2tZpa2tLQEOyOzeEsfumlK2tbVpaGj4N6jIs1lpsDAwMJ278sveMY2BgCA0NFRISwqkhyQ1q/Nyd3zg4OBgYGNjZ2ePi4rB5loGBhZnhxTLJ/9ulv26Q4uVk1NXV/f///////69du4Zdg78lx//t0v+3S88rFISInD59GqIH2esIJ8G9O2/XVwhjzpw5EAam1xkkBJn/bJX+v1365hxxuCAfH9+3b9/+////48cPuNehNsS7cDEzMTAwMMzb+Q2u4dOnT2vWrMHu9ZtzxP9vl/69RVpCkBlZ3N7enoDXBwEAAA+YYitOilMVAAAAAElFTkSuQmCC&logoColor=%23FFB71B&labelColor=black&link=mailto%3Agerman.ayuso%40ansys.com"> -->
-        <img alt="Ansys" src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABDklEQVQ4jWNgoDfg5mD8vE7q/3bpVyskbW0sMRUwofHD7Dh5OBkZGBgW7/3W2tZpa2tLQEOyOzeEsfumlK2tbVpaGj4N6jIs1lpsDAwMJ278sveMY2BgCA0NFRISwqkhyQ1q/Nyd3zg4OBgYGNjZ2ePi4rB5loGBhZnhxTLJ/9ulv26Q4uVk1NXV/f///////69du4Zdg78lx//t0v+3S88rFISInD59GqIH2esIJ8G9O2/XVwhjzpw5EAam1xkkBJn/bJX+v1365hxxuCAfH9+3b9/+////48cPuNehNsS7cDEzMTAwMMzb+Q2u4dOnT2vWrMHu9ZtzxP9vl/69RVpCkBlZ3N7enoDXBwEAAA+YYitOilMVAAAAAElFTkSuQmCC&logoColor=black&labelColor=%black&link=mailto%3Agerman.ayuso%40ansys.com">
-    </a>
     <a href="https://twitter.com/germa89">
     <!-- Twitter -->
         <!-- <img alt="X-Twitter" src="https://img.shields.io/badge/X%20(Twitter)-germa89-black?style=for-the-badge&logo=x&labelColor=white&link=https%3A%2F%2Ftwitter.com%2Fgerma89"> -->
@@ -67,7 +66,7 @@ Looking forward to connecting with you!
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/fortran.svg" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
@@ -79,11 +78,15 @@ Looking forward to connecting with you!
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" lt="GitHub" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" title="gRPC" alt="gRPC" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" height="40"/>
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="TensorFlow" alt="TensorFlow" height="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit-learn" alt="scikit-learn" height="40"/>
 
 
 
@@ -93,9 +96,12 @@ Looking forward to connecting with you!
 
 ## :keyboard: Contributions
 
-- **[PyMAPDL](https://github.com/pyansys/pymapdl)** Pythonic interface to MAPDL. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/pymapdl?style=social">
+- **[PyMAPDL](https://github.com/ansys/pymapdl)** Pythonic interface to MAPDL (main maintainer). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/pymapdl?style=social">
+- **[PyMAPDL MCP](https://github.com/ansys/pymapdl-mcp)** Model Context Protocol (MCP) server that lets AI agents drive MAPDL simulations. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/pymapdl-mcp?style=social">
 - **[PyVista](https://github.com/pyvista/pyvista)** 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyvista/pyvista?style=social">
-- **[Ansys/Actions](https://github.com/ansys/actions)** A collection of reusable workflows. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/actions?style=social"> 
+- **[Ansys/Actions](https://github.com/ansys/actions)** A collection of reusable workflows. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/actions?style=social">
+- **[ansys-sphinx-theme](https://github.com/ansys/ansys-sphinx-theme)** Sphinx documentation theme for the PyAnsys ecosystem. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/ansys-sphinx-theme?style=social">
+- **[ansys-tools-path](https://github.com/ansys/ansys-tools-path)** Locates Ansys installations and executables. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/ansys-tools-path?style=social">
 
 
 ## :octocat: GitHub statistics
