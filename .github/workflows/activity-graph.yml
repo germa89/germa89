@@ -1,0 +1,55 @@
+name: Update activity graph
+
+# Generates the contribution activity graph as an SVG and publishes it to the
+# orphan "outputs" branch, which README.md loads from raw.githubusercontent.com.
+# Replaces github-readme-activity-graph.vercel.app, whose public deployment is
+# disabled (HTTP 402 DEPLOYMENT_DISABLED).
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@6411849745757299611a795fef822a31ca8d1d02 # v1.0.0
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=github-light&exclude_days=Sun%2CSat&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Publish to a fresh single-commit orphan branch each run, so main stays
+      # clean and "outputs" never accumulates history.
+      - name: Publish SVG to orphan outputs branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          WORKTREE="$(mktemp -d)"
+          git worktree add --detach "$WORKTREE"
+          git -C "$WORKTREE" checkout --orphan outputs
+          git -C "$WORKTREE" rm -rf . > /dev/null 2>&1 || true
+
+          mkdir -p "$WORKTREE/dist"
+          cp dist/activity-graph.svg "$WORKTREE/dist/activity-graph.svg"
+
+          cd "$WORKTREE"
+          git add dist/activity-graph.svg
+          git commit -m "chore: update activity graph"
+          git push --force origin HEAD:outputs
